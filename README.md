@@ -4,4 +4,5 @@
 **如果你觉得这个项目对你有帮助，可以考虑赞助我。你的支持将有助于这个项目的持续发展和改进🙏**
 
 微信:
-<img width="335" alt="image" src="https://github.com/user-attachments/assets/d1193478-89cd-47d8-a820-c01f45868e3f">
+
+<img width="305" alt="image" src="https://github.com/user-attachments/assets/07a667d7-6860-4c92-8465-2492b2f49648">
